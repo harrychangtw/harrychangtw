@@ -1,6 +1,6 @@
 👋 Hi, I'm Harry (Chi-Wei Chang).
 
-I'm a CS undergraduate at NTU, working mostly on LLM safety. I've first-authored [FORTRESS](https://harrychang.me/projects/2025_07_04_fortress_system) (TMLR) on training-free safety classification and the [PATCH dataset](https://harrychang.me/projects) (EACL SRW), and I currently research at CyCraft. I also teach: a hands-on [LLM jailbreak attack & defense lab](https://www.harrychang.me/slides/ais3-26/) at AIS3 2026, and the [ML course](https://www.harrychang.me/slides/sitcon-camp-26-ml-course2/) at SITCON Camp 2026.
+I'm a CS undergraduate at NTU, working mostly on LLM safety. I've first-authored [FORTRESS](https://www.harrychang.me/projects/2025_10_12_fortress) (TMLR) on training-free safety classification and the [PATCH dataset](https://www.harrychang.me/projects/2025_05_18_patch_dataset) (EACL SRW), and I currently research at CyCraft. I also teach: a hands-on [LLM jailbreak attack & defense lab](https://www.harrychang.me/slides/ais3-26/) at AIS3 2026, and the [ML course](https://www.harrychang.me/slides/sitcon-camp-26-ml-course2/) at SITCON Camp 2026.
 
 Away from the terminal, I shoot on a rangefinder, edit video, and debate.
 
